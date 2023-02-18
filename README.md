@@ -9,4 +9,5 @@
 - Run: `git clone https://github.com/w3tsa/kanban_client.git`
 - CD into the folder
 - Run: `npm install`
-- Run: `npm start`
+- Run: `npm run dev`
+- Application will be started at `thtp://localhost:5173`
